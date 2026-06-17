@@ -191,7 +191,7 @@ This project was built with **Cursor AI (Claude)** as a development accelerator.
 
 ## AI Tools Utilized
 
-- **Chat GPT, ClaudeAI and Coiplot** — Project scaffolding, component architecture, TypeScript interfaces, UI iteration, bug fixes, and documentation
+- **Chat GPT, ClaudeAI and Copilot** — Project scaffolding, component architecture, TypeScript interfaces, UI iteration, bug fixes, and documentation
 
 ## Assumptions and Limitations
 
