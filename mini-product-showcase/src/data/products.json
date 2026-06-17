@@ -1,0 +1,459 @@
+[
+  {
+    "id": "prod-001",
+    "name": "Galaxy Pro X15",
+    "slug": "galaxy-pro-x15",
+    "description": "Experience the future of mobile technology with the Galaxy Pro X15. Featuring a stunning 6.8-inch AMOLED display, revolutionary AI-powered camera system with 200MP main sensor, and the fastest mobile processor on the market. With all-day battery life and 5G connectivity, this flagship smartphone sets a new standard for mobile excellence.",
+    "shortDescription": "Flagship smartphone with 200MP camera and AI features",
+    "price": 1199.99,
+    "originalPrice": 1299.99,
+    "category": "Smartphones",
+    "categoryId": "cat-smartphones",
+    "brand": "Samsung",
+    "rating": 4.8,
+    "reviewCount": 2847,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&h=800&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&h=800&fit=crop"
+    ],
+    "inStock": true,
+    "featured": true,
+    "specifications": [
+      { "label": "Display", "value": "6.8\" AMOLED, 120Hz" },
+      { "label": "Processor", "value": "Snapdragon 8 Gen 3" },
+      { "label": "RAM", "value": "12GB" },
+      { "label": "Storage", "value": "256GB" },
+      { "label": "Battery", "value": "5000mAh" },
+      { "label": "Camera", "value": "200MP + 50MP + 12MP" }
+    ],
+    "tags": ["5G", "flagship", "camera", "smartphone"]
+  },
+  {
+    "id": "prod-002",
+    "name": "iPhone Air Max",
+    "slug": "iphone-air-max",
+    "description": "The thinnest iPhone ever created, the iPhone Air Max combines titanium design with the powerful A18 Pro chip. Featuring a pro-grade camera system, all-day battery life, and seamless integration with the Apple ecosystem.",
+    "shortDescription": "Ultra-thin titanium design with A18 Pro chip",
+    "price": 1099.99,
+    "originalPrice": 1199.99,
+    "category": "Smartphones",
+    "categoryId": "cat-smartphones",
+    "brand": "Apple",
+    "rating": 4.9,
+    "reviewCount": 5621,
+    "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=800&h=800&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=800&h=800&fit=crop"
+    ],
+    "inStock": true,
+    "featured": true,
+    "specifications": [
+      { "label": "Display", "value": "6.7\" Super Retina XDR" },
+      { "label": "Chip", "value": "A18 Pro" },
+      { "label": "Storage", "value": "256GB" },
+      { "label": "Camera", "value": "48MP Main + 12MP Ultra Wide" },
+      { "label": "Material", "value": "Titanium" },
+      { "label": "Water Resistance", "value": "IP68" }
+    ],
+    "tags": ["ios", "flagship", "titanium", "smartphone"]
+  },
+  {
+    "id": "prod-003",
+    "name": "UltraBook Pro 16",
+    "slug": "ultrabook-pro-16",
+    "description": "Power through your most demanding tasks with the UltraBook Pro 16. Featuring an M3 Max chip, stunning 16-inch Liquid Retina XDR display, and up to 22 hours of battery life. Perfect for creative professionals and developers.",
+    "shortDescription": "16-inch pro laptop with M3 Max chip",
+    "price": 2499.99,
+    "category": "Laptops",
+    "categoryId": "cat-laptops",
+    "brand": "Apple",
+    "rating": 4.9,
+    "reviewCount": 1893,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&h=800&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&h=800&fit=crop"
+    ],
+    "inStock": true,
+    "featured": true,
+    "specifications": [
+      { "label": "Display", "value": "16.2\" Liquid Retina XDR" },
+      { "label": "Chip", "value": "Apple M3 Max" },
+      { "label": "RAM", "value": "36GB Unified Memory" },
+      { "label": "Storage", "value": "1TB SSD" },
+      { "label": "Battery", "value": "Up to 22 hours" },
+      { "label": "Weight", "value": "2.14 kg" }
+    ],
+    "tags": ["laptop", "professional", "creative", "macbook"]
+  },
+  {
+    "id": "prod-004",
+    "name": "GameForce RTX 5080",
+    "slug": "gameforce-rtx-5080",
+    "description": "Dominate every game with the GameForce RTX 5080 gaming laptop. Powered by NVIDIA RTX 5080 graphics, Intel Core i9-14900HX, and a blazing 240Hz display for competitive gaming at its finest.",
+    "shortDescription": "High-performance gaming laptop with RTX 5080",
+    "price": 2199.99,
+    "originalPrice": 2399.99,
+    "category": "Laptops",
+    "categoryId": "cat-laptops",
+    "brand": "ASUS",
+    "rating": 4.7,
+    "reviewCount": 956,
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=800&h=800&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=800&h=800&fit=crop"
+    ],
+    "inStock": true,
+    "featured": true,
+    "specifications": [
+      { "label": "Display", "value": "15.6\" QHD 240Hz" },
+      { "label": "GPU", "value": "NVIDIA RTX 5080 16GB" },
+      { "label": "CPU", "value": "Intel Core i9-14900HX" },
+      { "label": "RAM", "value": "32GB DDR5" },
+      { "label": "Storage", "value": "2TB NVMe SSD" },
+      { "label": "Cooling", "value": "Tri-fan vapor chamber" }
+    ],
+    "tags": ["gaming", "laptop", "rtx", "high-performance"]
+  },
+  {
+    "id": "prod-005",
+    "name": "SoundWave Pro ANC",
+    "slug": "soundwave-pro-anc",
+    "description": "Immerse yourself in studio-quality sound with the SoundWave Pro ANC headphones. Industry-leading active noise cancellation, 40-hour battery life, and premium memory foam ear cushions for all-day comfort.",
+    "shortDescription": "Premium ANC headphones with 40-hour battery",
+    "price": 349.99,
+    "originalPrice": 399.99,
+    "category": "Audio",
+    "categoryId": "cat-audio",
+    "brand": "Sony",
+    "rating": 4.8,
+    "reviewCount": 4210,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=800&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=800&fit=crop"
+    ],
+    "inStock": true,
+    "featured": true,
+    "specifications": [
+      { "label": "Driver", "value": "40mm dynamic" },
+      { "label": "ANC", "value": "Adaptive noise cancellation" },
+      { "label": "Battery", "value": "40 hours (ANC on)" },
+      { "label": "Connectivity", "value": "Bluetooth 5.3, 3.5mm" },
+      { "label": "Codec", "value": "LDAC, aptX HD" },
+      { "label": "Weight", "value": "250g" }
+    ],
+    "tags": ["headphones", "anc", "wireless", "audio"]
+  },
+  {
+    "id": "prod-006",
+    "name": "AirPods Elite Pro",
+    "slug": "airpods-elite-pro",
+    "description": "The ultimate wireless earbuds experience. AirPods Elite Pro deliver immersive spatial audio, adaptive transparency, and personalized spatial audio with dynamic head tracking.",
+    "shortDescription": "Premium wireless earbuds with spatial audio",
+    "price": 249.99,
+    "category": "Audio",
+    "categoryId": "cat-audio",
+    "brand": "Apple",
+    "rating": 4.7,
+    "reviewCount": 8934,
+    "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=800&h=800&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=800&h=800&fit=crop"
+    ],
+    "inStock": true,
+    "featured": true,
+    "specifications": [
+      { "label": "Driver", "value": "Custom high-excursion" },
+      { "label": "ANC", "value": "Active Noise Cancellation" },
+      { "label": "Battery", "value": "6 hours (30 with case)" },
+      { "label": "Chip", "value": "H2" },
+      { "label": "Water Resistance", "value": "IPX4" },
+      { "label": "Features", "value": "Spatial Audio, Adaptive EQ" }
+    ],
+    "tags": ["earbuds", "wireless", "apple", "spatial-audio"]
+  },
+  {
+    "id": "prod-007",
+    "name": "FitTrack Ultra 3",
+    "slug": "fittrack-ultra-3",
+    "description": "Your ultimate fitness companion. The FitTrack Ultra 3 features advanced health sensors, GPS tracking, sleep analysis, and a stunning always-on AMOLED display. Track 100+ workout modes with precision.",
+    "shortDescription": "Advanced fitness smartwatch with health sensors",
+    "price": 449.99,
+    "originalPrice": 499.99,
+    "category": "Wearables",
+    "categoryId": "cat-wearables",
+    "brand": "Garmin",
+    "rating": 4.6,
+    "reviewCount": 1567,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=800&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=800&fit=crop"
+    ],
+    "inStock": true,
+    "featured": true,
+    "specifications": [
+      { "label": "Display", "value": "1.4\" AMOLED always-on" },
+      { "label": "Battery", "value": "Up to 14 days" },
+      { "label": "GPS", "value": "Multi-band GNSS" },
+      { "label": "Sensors", "value": "HR, SpO2, ECG, Body Battery" },
+      { "label": "Water Rating", "value": "10 ATM" },
+      { "label": "Storage", "value": "32GB" }
+    ],
+    "tags": ["smartwatch", "fitness", "gps", "health"]
+  },
+  {
+    "id": "prod-008",
+    "name": "Watch Series X",
+    "slug": "watch-series-x",
+    "description": "The most advanced Apple Watch ever. Featuring a larger display, faster S10 chip, double tap gesture control, and comprehensive health monitoring including blood oxygen and ECG.",
+    "shortDescription": "Premium smartwatch with advanced health features",
+    "price": 399.99,
+    "category": "Wearables",
+    "categoryId": "cat-wearables",
+    "brand": "Apple",
+    "rating": 4.8,
+    "reviewCount": 3421,
+    "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=800&h=800&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=800&h=800&fit=crop"
+    ],
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      { "label": "Display", "value": "Always-On Retina LTPO OLED" },
+      { "label": "Chip", "value": "S10 SiP" },
+      { "label": "Battery", "value": "Up to 18 hours" },
+      { "label": "Health", "value": "ECG, Blood O2, Temperature" },
+      { "label": "Water Rating", "value": "50 meters" },
+      { "label": "Connectivity", "value": "GPS + Cellular" }
+    ],
+    "tags": ["apple-watch", "smartwatch", "health", "fitness"]
+  },
+  {
+    "id": "prod-009",
+    "name": "Echo Hub Max",
+    "slug": "echo-hub-max",
+    "description": "Transform your home with the Echo Hub Max smart display. Control all your smart devices, stream entertainment, make video calls, and get visual responses from Alexa on a stunning 15.6-inch display.",
+    "shortDescription": "15.6-inch smart home hub with Alexa",
+    "price": 279.99,
+    "category": "Smart Home",
+    "categoryId": "cat-smart-home",
+    "brand": "Amazon",
+    "rating": 4.5,
+    "reviewCount": 2134,
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=800&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=800&fit=crop"
+    ],
+    "inStock": true,
+    "featured": true,
+    "specifications": [
+      { "label": "Display", "value": "15.6\" Full HD touchscreen" },
+      { "label": "Camera", "value": "13MP with auto-framing" },
+      { "label": "Speakers", "value": "Dual 2\" full-range" },
+      { "label": "Connectivity", "value": "Wi-Fi 6E, Zigbee, Matter" },
+      { "label": "Assistant", "value": "Alexa built-in" },
+      { "label": "Mount", "value": "Wall or countertop" }
+    ],
+    "tags": ["smart-home", "alexa", "display", "hub"]
+  },
+  {
+    "id": "prod-010",
+    "name": "Nest Thermostat Pro",
+    "slug": "nest-thermostat-pro",
+    "description": "Save energy and stay comfortable with the Nest Thermostat Pro. Learns your schedule, adjusts automatically, and can reduce your heating and cooling bills by up to 15%. Works with all major HVAC systems.",
+    "shortDescription": "Smart thermostat with learning capabilities",
+    "price": 249.99,
+    "originalPrice": 279.99,
+    "category": "Smart Home",
+    "categoryId": "cat-smart-home",
+    "brand": "Google",
+    "rating": 4.6,
+    "reviewCount": 3876,
+    "image": "https://images.unsplash.com/photo-1558002038-1055907df827?w=800&h=800&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1558002038-1055907df827?w=800&h=800&fit=crop"
+    ],
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      { "label": "Display", "value": "3.5\" high-res color" },
+      { "label": "Sensors", "value": "Temperature, humidity, motion" },
+      { "label": "Compatibility", "value": "95% of HVAC systems" },
+      { "label": "Connectivity", "value": "Wi-Fi, Thread, Matter" },
+      { "label": "Energy Savings", "value": "Up to 15%" },
+      { "label": "Voice Control", "value": "Google Assistant, Alexa" }
+    ],
+    "tags": ["thermostat", "smart-home", "energy", "google"]
+  },
+  {
+    "id": "prod-011",
+    "name": "PowerLink GaN Charger 140W",
+    "slug": "powerlink-gan-charger-140w",
+    "description": "Charge all your devices with one compact charger. The PowerLink GaN Charger delivers 140W of power through USB-C, supporting fast charging for laptops, tablets, and phones simultaneously.",
+    "shortDescription": "140W GaN charger for all your devices",
+    "price": 79.99,
+    "category": "Accessories",
+    "categoryId": "cat-accessories",
+    "brand": "Anker",
+    "rating": 4.7,
+    "reviewCount": 5623,
+    "image": "https://images.unsplash.com/photo-1625948515291-69613efd103f?w=800&h=800&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1625948515291-69613efd103f?w=800&h=800&fit=crop"
+    ],
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      { "label": "Power Output", "value": "140W total" },
+      { "label": "Ports", "value": "2x USB-C, 1x USB-A" },
+      { "label": "Technology", "value": "GaN II" },
+      { "label": "Protocols", "value": "PD 3.1, PPS, QC 4.0" },
+      { "label": "Size", "value": "70 x 70 x 32mm" },
+      { "label": "Weight", "value": "220g" }
+    ],
+    "tags": ["charger", "gan", "usb-c", "accessories"]
+  },
+  {
+    "id": "prod-012",
+    "name": "FlexStand Pro Dock",
+    "slug": "flexstand-pro-dock",
+    "description": "Elevate your workspace with the FlexStand Pro Dock. A premium aluminum laptop stand with integrated 12-port USB-C hub, supporting dual 4K displays and 100W pass-through charging.",
+    "shortDescription": "Premium laptop stand with 12-port USB-C hub",
+    "price": 189.99,
+    "originalPrice": 219.99,
+    "category": "Accessories",
+    "categoryId": "cat-accessories",
+    "brand": "CalDigit",
+    "rating": 4.8,
+    "reviewCount": 987,
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&h=800&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&h=800&fit=crop"
+    ],
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      { "label": "Material", "value": "CNC aluminum" },
+      { "label": "Ports", "value": "12 (USB-C, HDMI, SD, Ethernet)" },
+      { "label": "Display Support", "value": "Dual 4K @ 60Hz" },
+      { "label": "Power Delivery", "value": "100W pass-through" },
+      { "label": "Adjustability", "value": "Height and angle" },
+      { "label": "Compatibility", "value": "13-17\" laptops" }
+    ],
+    "tags": ["dock", "stand", "usb-c", "workspace"]
+  },
+  {
+    "id": "prod-013",
+    "name": "Pixel Nova 9",
+    "slug": "pixel-nova-9",
+    "description": "Pure Android experience meets cutting-edge AI. The Pixel Nova 9 features Google's most advanced Tensor G4 chip, computational photography that rivals professional cameras, and 7 years of guaranteed updates.",
+    "shortDescription": "AI-powered Android phone with Tensor G4",
+    "price": 899.99,
+    "category": "Smartphones",
+    "categoryId": "cat-smartphones",
+    "brand": "Google",
+    "rating": 4.6,
+    "reviewCount": 1234,
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&h=800&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&h=800&fit=crop"
+    ],
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      { "label": "Display", "value": "6.3\" OLED, 120Hz" },
+      { "label": "Chip", "value": "Google Tensor G4" },
+      { "label": "RAM", "value": "12GB" },
+      { "label": "Storage", "value": "128GB" },
+      { "label": "Camera", "value": "50MP + 48MP telephoto" },
+      { "label": "Updates", "value": "7 years guaranteed" }
+    ],
+    "tags": ["android", "pixel", "ai", "smartphone"]
+  },
+  {
+    "id": "prod-014",
+    "name": "ThinkPad X1 Carbon",
+    "slug": "thinkpad-x1-carbon",
+    "description": "The business laptop benchmark. ThinkPad X1 Carbon Gen 12 combines legendary durability with Intel Core Ultra processors, a stunning 2.8K OLED display, and military-grade reliability.",
+    "shortDescription": "Premium business ultrabook with OLED display",
+    "price": 1799.99,
+    "category": "Laptops",
+    "categoryId": "cat-laptops",
+    "brand": "Lenovo",
+    "rating": 4.7,
+    "reviewCount": 756,
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&h=800&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&h=800&fit=crop"
+    ],
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      { "label": "Display", "value": "14\" 2.8K OLED" },
+      { "label": "CPU", "value": "Intel Core Ultra 7" },
+      { "label": "RAM", "value": "32GB LPDDR5" },
+      { "label": "Storage", "value": "1TB SSD" },
+      { "label": "Weight", "value": "1.12 kg" },
+      { "label": "Durability", "value": "MIL-STD-810H" }
+    ],
+    "tags": ["business", "laptop", "thinkpad", "ultrabook"]
+  },
+  {
+    "id": "prod-015",
+    "name": "BoomBox Mini",
+    "slug": "boombox-mini",
+    "description": "Take the party anywhere with the BoomBox Mini portable speaker. IP67 waterproof, 24-hour battery life, and JBL Pro Sound with deep bass that fills any space.",
+    "shortDescription": "Portable waterproof Bluetooth speaker",
+    "price": 129.99,
+    "originalPrice": 149.99,
+    "category": "Audio",
+    "categoryId": "cat-audio",
+    "brand": "JBL",
+    "rating": 4.5,
+    "reviewCount": 6789,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800&h=800&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800&h=800&fit=crop"
+    ],
+    "inStock": true,
+    "featured": false,
+    "specifications": [
+      { "label": "Output", "value": "40W RMS" },
+      { "label": "Battery", "value": "24 hours" },
+      { "label": "Water Rating", "value": "IP67" },
+      { "label": "Connectivity", "value": "Bluetooth 5.3" },
+      { "label": "Features", "value": "PartyBoost, power bank" },
+      { "label": "Weight", "value": "540g" }
+    ],
+    "tags": ["speaker", "portable", "bluetooth", "waterproof"]
+  },
+  {
+    "id": "prod-016",
+    "name": "SmartCam Pro 4K",
+    "slug": "smartcam-pro-4k",
+    "description": "Secure your home with crystal-clear 4K video. SmartCam Pro features AI person detection, color night vision, two-way audio, and local storage with optional cloud backup.",
+    "shortDescription": "4K smart security camera with AI detection",
+    "price": 159.99,
+    "category": "Smart Home",
+    "categoryId": "cat-smart-home",
+    "brand": "Ring",
+    "rating": 4.4,
+    "reviewCount": 4521,
+    "image": "https://images.unsplash.com/photo-1557324232-b8917d3c3dcb?w=800&h=800&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1557324232-b8917d3c3dcb?w=800&h=800&fit=crop"
+    ],
+    "inStock": false,
+    "featured": false,
+    "specifications": [
+      { "label": "Resolution", "value": "4K Ultra HD" },
+      { "label": "Field of View", "value": "160° diagonal" },
+      { "label": "Night Vision", "value": "Color night vision" },
+      { "label": "AI Features", "value": "Person, package, vehicle" },
+      { "label": "Storage", "value": "Local + cloud optional" },
+      { "label": "Power", "value": "Wired or solar" }
+    ],
+    "tags": ["security", "camera", "smart-home", "4k"]
+  }
+]

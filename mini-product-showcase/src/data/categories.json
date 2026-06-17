@@ -1,0 +1,44 @@
+[
+  {
+    "id": "cat-smartphones",
+    "name": "Smartphones",
+    "slug": "smartphones",
+    "description": "Latest flagship and budget smartphones",
+    "icon": "smartphone"
+  },
+  {
+    "id": "cat-laptops",
+    "name": "Laptops",
+    "slug": "laptops",
+    "description": "Powerful laptops for work and gaming",
+    "icon": "laptop"
+  },
+  {
+    "id": "cat-audio",
+    "name": "Audio",
+    "slug": "audio",
+    "description": "Headphones, earbuds, and speakers",
+    "icon": "headphones"
+  },
+  {
+    "id": "cat-wearables",
+    "name": "Wearables",
+    "slug": "wearables",
+    "description": "Smartwatches and fitness trackers",
+    "icon": "watch"
+  },
+  {
+    "id": "cat-smart-home",
+    "name": "Smart Home",
+    "slug": "smart-home",
+    "description": "Connected devices for your home",
+    "icon": "home"
+  },
+  {
+    "id": "cat-accessories",
+    "name": "Accessories",
+    "slug": "accessories",
+    "description": "Cables, chargers, and more",
+    "icon": "plug"
+  }
+]
